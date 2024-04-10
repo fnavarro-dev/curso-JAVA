@@ -3,7 +3,7 @@
 //en este ejercicio se pide 3 resistencias en paralelo y se calcula la resistencia total
 import java.util.Scanner;
 
-public class Resistencia {
+public class A01_Resistencia {
     public static void main(String[] args) {
 
         // declaracion de variables
