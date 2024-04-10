@@ -1,6 +1,6 @@
 # Curso JAVA
 
-Este repositorio es un viaje por el mundo de Java, mostrando el avance y las distintas materias cubiertas a través de tareas prácticas. Aquí tenemos un índice con todas las materias vistas en el curso de Java (gracias a Talento Digital Chile), con una breve descripción más el link al archivo `.java` (o .class) correspondiente.
+Aquí tenemos un índice con todas las materias vistas en el curso de Java (gracias a Talento Digital Chile), con una breve descripción más el link al archivo `.java` (o .class) correspondiente.
 
 ## Índice de Materias
 
@@ -8,7 +8,7 @@ Este repositorio es un viaje por el mundo de Java, mostrando el avance y las dis
 
 Aquí ocupamos el `java.util.Scanner` para pedir al usuario valores a ingresar y después aplicamos operaciones matemáticas para calcular un valor con esas variables.
 
-- [Resistencia.java](https://github.com/fnavarro-dev/curso-JAVA/blob/main/01%20Resistencia.java)
+- [Resistencia.java](https://github.com/fnavarro-dev/curso-JAVA/blob/main/A01_Resistencia.java)
 
 ### 02. Bucles y Condicionales
 
